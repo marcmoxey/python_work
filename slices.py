@@ -1,0 +1,11 @@
+my_foods = ['pizza','falafel','carrot cake']
+my_foods.append('cannoli')
+print("The first three items in the list are:")
+print(my_foods[:3])
+print()
+my_foods.append('ice cream')
+print("Three items from the middle of the list are:")
+print(my_foods[2:])
+print()
+print("The last three items in the last are:")
+print(my_foods[-3:])
