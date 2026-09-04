@@ -10,8 +10,6 @@ Working through *Python Crash Course, 3rd Edition* (Eric Matthes) — Part I, Ch
 
 ## Progress
 
-<<<<<<< HEAD
-
 - [X]  **1. Python Crash Course, 3rd Edition** — Purchase or borrow the book. Work through Part I (chapters 1–11), which covers all the Python fundamentals needed.
 - [X]  **2. Getting Started** — Set up your Python environment, install VS Code, and write your first "Hello World" program.
 - [X]  **3. Variables and Simple Data Types** — Learn about variables, strings, integers, and floats.
