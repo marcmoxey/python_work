@@ -21,6 +21,8 @@ Working through *Python Crash Course, 3rd Edition* (Eric Matthes) — Part I, Ch
 - [ ]  **9. Functions** — Define functions, pass arguments, and return values. The building blocks of clean code.
 - [ ]  **10. Classes** — Introduction to object-oriented programming: classes, instances, attributes, and methods.
 - [ ]  **11. Files and Exceptions** — Read and write files, handle errors gracefully with try/except.
-- [ ]  **12. Testing Your Code** — Write tests with `pytest` — a professional skill that catches bugs early.## Resources
+- [ ]  **12. Testing Your Code** — Write tests with `pytest` — a professional skill that catches bugs early.
+
+# Resources
 
 - [Python Crash Course, 3rd Edition](https://nostarch.com/python-crash-course-3rd-edition)
