@@ -16,7 +16,7 @@ Working through *Python Crash Course, 3rd Edition* (Eric Matthes) — Part I, Ch
 - [x] **4. Introducing Lists** — Create lists, access elements by index, and use methods like `append`, `insert`, and `remove`.
 - [x] **5. Working with Lists** — Master for loops, list comprehensions, slicing, and tuples.
 - [x] **6. if Statements** — Control flow with conditionals.
-- [ ] **7. Dictionaries** — Understand key-value pairs — essential for working with JSON and APIs.
+- [x] **7. Dictionaries** — Understand key-value pairs — essential for working with JSON and APIs.
 - [ ] **8. User Input and while Loops** — Accept user input and control program flow with while loops.
 - [ ] **9. Functions** — Define functions, pass arguments, and return values. The building blocks of clean code.
 - [ ] **10. Classes** — Introduction to object-oriented programming: classes, instances, attributes, and methods.
