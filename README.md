@@ -25,4 +25,4 @@ Working through *Python Crash Course, 3rd Edition* (Eric Matthes) — Part I, Ch
 
 # Resources
 
-- [Python Crash Course, 3rd Edition](https://nostarch.com/python-crash-course-3rd-edition)
+[Python Crash Course, 3rd Edition](https://nostarch.com/python-crash-course-3rd-edition)
