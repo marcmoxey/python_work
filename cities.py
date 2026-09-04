@@ -18,3 +18,16 @@ cities = {
 
 for city, city_info in cities.items():
     print(f"{city.title()} has {city_info['population']} and {city_info['fact']}")
+    
+    
+# Using break to Exit a Loop
+prompt = "\nPlease enter the name of the city you have visited:"
+prompt += "\n(Enter 'quit' when you are finished)"
+
+while True: 
+    city = input(prompt)
+    
+    if city == 'quit':
+        break
+    else:
+        print(f"I'd love to go to {city.title()}")
