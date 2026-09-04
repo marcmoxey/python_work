@@ -17,7 +17,7 @@ Working through *Python Crash Course, 3rd Edition* (Eric Matthes) — Part I, Ch
 - [x] **5. Working with Lists** — Master for loops, list comprehensions, slicing, and tuples.
 - [x] **6. if Statements** — Control flow with conditionals.
 - [x] **7. Dictionaries** — Understand key-value pairs — essential for working with JSON and APIs.
-- [ ] **8. User Input and while Loops** — Accept user input and control program flow with while loops.
+- [x] **8. User Input and while Loops** — Accept user input and control program flow with while loops.
 - [ ] **9. Functions** — Define functions, pass arguments, and return values. The building blocks of clean code.
 - [ ] **10. Classes** — Introduction to object-oriented programming: classes, instances, attributes, and methods.
 - [ ] **11. Files and Exceptions** — Read and write files, handle errors gracefully with try/except.
